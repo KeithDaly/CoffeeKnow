@@ -1,0 +1,123 @@
+c:\users\cian\documents\visual studio 2013\Projects\KeithsApp\KeithsApp\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\cian\documents\visual studio 2013\Projects\KeithsApp\KeithsApp\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\cian\documents\visual studio 2013\Projects\KeithsApp\KeithsApp\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\cian\documents\visual studio 2013\Projects\KeithsApp\KeithsApp\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\cian\documents\visual studio 2013\Projects\KeithsApp\KeithsApp\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\cian\documents\visual studio 2013\Projects\KeithsApp\KeithsApp\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\cian\documents\visual studio 2013\Projects\KeithsApp\KeithsApp\Bin\Debug\KeithsApp.dll
+c:\users\cian\documents\visual studio 2013\Projects\KeithsApp\KeithsApp\Bin\Debug\KeithsApp.pdb
+c:\users\cian\documents\visual studio 2013\Projects\KeithsApp\KeithsApp\Bin\Debug\resources.pri
+c:\users\cian\documents\visual studio 2013\Projects\KeithsApp\KeithsApp\Bin\Debug\AppxManifest.xml
+c:\users\cian\documents\visual studio 2013\Projects\KeithsApp\KeithsApp\Bin\Debug\KeithsApp.build.appxrecipe
+c:\users\cian\documents\visual studio 2013\Projects\KeithsApp\KeithsApp\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\cian\documents\visual studio 2013\Projects\KeithsApp\KeithsApp\Bin\Debug\AppManifest.xaml
+c:\users\cian\documents\visual studio 2013\Projects\KeithsApp\KeithsApp\Bin\Debug\KeithsApp_Debug_AnyCPU.xap
+c:\users\cian\documents\visual studio 2013\Projects\KeithsApp\KeithsApp\obj\Debug\App.g.cs
+c:\users\cian\documents\visual studio 2013\Projects\KeithsApp\KeithsApp\obj\Debug\MainPage.g.cs
+c:\users\cian\documents\visual studio 2013\Projects\KeithsApp\KeithsApp\obj\Debug\KeithsApp.g.resources
+c:\users\cian\documents\visual studio 2013\Projects\KeithsApp\KeithsApp\obj\Debug\KeithsApp.Resources.AppResources.resources
+c:\users\cian\documents\visual studio 2013\Projects\KeithsApp\KeithsApp\obj\Debug\KeithsApp.csproj.GenerateResource.Cache
+c:\users\cian\documents\visual studio 2013\Projects\KeithsApp\KeithsApp\obj\Debug\KeithsApp.dll
+c:\users\cian\documents\visual studio 2013\Projects\KeithsApp\KeithsApp\obj\Debug\KeithsApp.pdb
+c:\users\cian\documents\visual studio 2013\Projects\KeithsApp\KeithsApp\obj\Debug\priconfig.xml
+c:\users\cian\documents\visual studio 2013\Projects\KeithsApp\KeithsApp\obj\Debug\priconfig.xml.intermediate
+c:\users\cian\documents\visual studio 2013\Projects\KeithsApp\KeithsApp\obj\Debug\layout.resfiles
+c:\users\cian\documents\visual studio 2013\Projects\KeithsApp\KeithsApp\obj\Debug\layout.resfiles.intermediate
+c:\users\cian\documents\visual studio 2013\Projects\KeithsApp\KeithsApp\obj\Debug\resources.resfiles
+c:\users\cian\documents\visual studio 2013\Projects\KeithsApp\KeithsApp\obj\Debug\resources.resfiles.intermediate
+c:\users\cian\documents\visual studio 2013\Projects\KeithsApp\KeithsApp\obj\Debug\pri.resfiles
+c:\users\cian\documents\visual studio 2013\Projects\KeithsApp\KeithsApp\obj\Debug\pri.resfiles.intermediate
+c:\users\cian\documents\visual studio 2013\Projects\KeithsApp\KeithsApp\obj\Debug\qualifiers.txt
+c:\users\cian\documents\visual studio 2013\Projects\KeithsApp\KeithsApp\obj\Debug\qualifiers.txt.intermediate
+c:\users\cian\documents\visual studio 2013\Projects\KeithsApp\KeithsApp\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\cian\documents\visual studio 2013\Projects\KeithsApp\KeithsApp\obj\Debug\ProjectArchitectures.txt
+c:\users\cian\documents\visual studio 2013\Projects\KeithsApp\KeithsApp\obj\Debug\MDILProjectFiles.xml
+c:\users\cian\documents\visual studio 2013\Projects\KeithsApp\KeithsApp\obj\Debug\XapCacheFile.xml
+c:\users\cian\documents\visual studio 2013\Projects\KeithsApp\KeithsApp\obj\Debug\AmericanoPage.g.cs
+c:\users\cian\documents\visual studio 2013\Projects\KeithsApp\KeithsApp\obj\Debug\CappuccinoPage.g.cs
+c:\users\cian\documents\visual studio 2013\Projects\KeithsApp\KeithsApp\obj\Debug\EspressoPage.g.cs
+c:\users\cian\documents\visual studio 2013\Projects\KeithsApp\KeithsApp\obj\Debug\FlatWhitePage.g.cs
+c:\users\cian\documents\visual studio 2013\Projects\KeithsApp\KeithsApp\obj\Debug\LattePage.g.cs
+c:\users\cian\documents\visual studio 2013\Projects\KeithsApp\KeithsApp\obj\Debug\MochaPage.g.cs
+\\psf\Home\Desktop\KeithsApp\KeithsApp\Bin\Debug\Assets\ApplicationIcon.png
+\\psf\Home\Desktop\KeithsApp\KeithsApp\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+\\psf\Home\Desktop\KeithsApp\KeithsApp\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+\\psf\Home\Desktop\KeithsApp\KeithsApp\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+\\psf\Home\Desktop\KeithsApp\KeithsApp\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+\\psf\Home\Desktop\KeithsApp\KeithsApp\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+\\psf\Home\Desktop\KeithsApp\KeithsApp\Bin\Debug\KeithsApp.dll
+\\psf\Home\Desktop\KeithsApp\KeithsApp\Bin\Debug\KeithsApp.pdb
+\\psf\Home\Desktop\KeithsApp\KeithsApp\Bin\Debug\resources.pri
+\\psf\Home\Desktop\KeithsApp\KeithsApp\Bin\Debug\AppxManifest.xml
+\\psf\Home\Desktop\KeithsApp\KeithsApp\Bin\Debug\KeithsApp.build.appxrecipe
+\\psf\Home\Desktop\KeithsApp\KeithsApp\Bin\Debug\Properties\WMAppManifest.xml
+\\psf\Home\Desktop\KeithsApp\KeithsApp\Bin\Debug\AppManifest.xaml
+\\psf\Home\Desktop\KeithsApp\KeithsApp\Bin\Debug\KeithsApp_Debug_AnyCPU.xap
+\\psf\Home\Desktop\KeithsApp\KeithsApp\obj\Debug\App.g.cs
+\\psf\Home\Desktop\KeithsApp\KeithsApp\obj\Debug\AmericanoPage.g.cs
+\\psf\Home\Desktop\KeithsApp\KeithsApp\obj\Debug\CappuccinoPage.g.cs
+\\psf\Home\Desktop\KeithsApp\KeithsApp\obj\Debug\EspressoPage.g.cs
+\\psf\Home\Desktop\KeithsApp\KeithsApp\obj\Debug\FlatWhitePage.g.cs
+\\psf\Home\Desktop\KeithsApp\KeithsApp\obj\Debug\LattePage.g.cs
+\\psf\Home\Desktop\KeithsApp\KeithsApp\obj\Debug\MainPage.g.cs
+\\psf\Home\Desktop\KeithsApp\KeithsApp\obj\Debug\MochaPage.g.cs
+\\psf\Home\Desktop\KeithsApp\KeithsApp\obj\Debug\KeithsApp.g.resources
+\\psf\Home\Desktop\KeithsApp\KeithsApp\obj\Debug\KeithsApp.Resources.AppResources.resources
+\\psf\Home\Desktop\KeithsApp\KeithsApp\obj\Debug\KeithsApp.csproj.GenerateResource.Cache
+\\psf\Home\Desktop\KeithsApp\KeithsApp\obj\Debug\KeithsApp.dll
+\\psf\Home\Desktop\KeithsApp\KeithsApp\obj\Debug\KeithsApp.pdb
+\\psf\Home\Desktop\KeithsApp\KeithsApp\obj\Debug\priconfig.xml
+\\psf\Home\Desktop\KeithsApp\KeithsApp\obj\Debug\priconfig.xml.intermediate
+\\psf\Home\Desktop\KeithsApp\KeithsApp\obj\Debug\layout.resfiles
+\\psf\Home\Desktop\KeithsApp\KeithsApp\obj\Debug\layout.resfiles.intermediate
+\\psf\Home\Desktop\KeithsApp\KeithsApp\obj\Debug\resources.resfiles
+\\psf\Home\Desktop\KeithsApp\KeithsApp\obj\Debug\resources.resfiles.intermediate
+\\psf\Home\Desktop\KeithsApp\KeithsApp\obj\Debug\pri.resfiles
+\\psf\Home\Desktop\KeithsApp\KeithsApp\obj\Debug\pri.resfiles.intermediate
+\\psf\Home\Desktop\KeithsApp\KeithsApp\obj\Debug\qualifiers.txt
+\\psf\Home\Desktop\KeithsApp\KeithsApp\obj\Debug\qualifiers.txt.intermediate
+\\psf\Home\Desktop\KeithsApp\KeithsApp\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+\\psf\Home\Desktop\KeithsApp\KeithsApp\obj\Debug\ProjectArchitectures.txt
+\\psf\Home\Desktop\KeithsApp\KeithsApp\obj\Debug\MDILProjectFiles.xml
+\\psf\Home\Desktop\KeithsApp\KeithsApp\obj\Debug\XapCacheFile.xml
+\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\Bin\Debug\Assets\ApplicationIcon.png
+\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\Bin\Debug\KeithsApp.dll
+\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\Bin\Debug\KeithsApp.pdb
+\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\Bin\Debug\resources.pri
+\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\Bin\Debug\AppxManifest.xml
+\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\Bin\Debug\KeithsApp.build.appxrecipe
+\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\Bin\Debug\Properties\WMAppManifest.xml
+\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\Bin\Debug\AppManifest.xaml
+\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\Bin\Debug\KeithsApp_Debug_AnyCPU.xap
+\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\obj\Debug\App.g.cs
+\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\obj\Debug\AmericanoPage.g.cs
+\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\obj\Debug\CappuccinoPage.g.cs
+\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\obj\Debug\EspressoPage.g.cs
+\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\obj\Debug\FlatWhitePage.g.cs
+\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\obj\Debug\LattePage.g.cs
+\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\obj\Debug\MainPage.g.cs
+\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\obj\Debug\MochaPage.g.cs
+\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\obj\Debug\KeithsApp.g.resources
+\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\obj\Debug\KeithsApp.Resources.AppResources.resources
+\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\obj\Debug\KeithsApp.csproj.GenerateResource.Cache
+\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\obj\Debug\KeithsApp.dll
+\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\obj\Debug\KeithsApp.pdb
+\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\obj\Debug\priconfig.xml
+\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\obj\Debug\priconfig.xml.intermediate
+\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\obj\Debug\layout.resfiles
+\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\obj\Debug\layout.resfiles.intermediate
+\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\obj\Debug\resources.resfiles
+\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\obj\Debug\resources.resfiles.intermediate
+\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\obj\Debug\pri.resfiles
+\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\obj\Debug\pri.resfiles.intermediate
+\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\obj\Debug\qualifiers.txt
+\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\obj\Debug\qualifiers.txt.intermediate
+\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\obj\Debug\ProjectArchitectures.txt
+\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\obj\Debug\MDILProjectFiles.xml
+\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\obj\Debug\XapCacheFile.xml

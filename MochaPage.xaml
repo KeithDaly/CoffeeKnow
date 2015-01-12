@@ -1,0 +1,50 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="KeithsApp.MochaPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock Text="Coffee Know" Style="{StaticResource PhoneTextNormalStyle}"/>
+            <TextBlock Text="Mocha" TextAlignment="Center" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+
+            <Image HorizontalAlignment="Center" Height="281" 
+                   Margin="10,22,10,0" VerticalAlignment="Top" 
+                   Width="436" Source="Images/Mocha.jpg"/>
+
+            <TextBlock HorizontalAlignment="Left" Margin="10,341,0,0" 
+                       TextWrapping="Wrap" Width="436"
+                       Text="A Mocha is based on espresso and hot milk, but with added chocolate, typically in the form of sweet cocoa powder, although many varieties use chocolate syrup. Mochas can contain dark or milk chocolate." 
+                       VerticalAlignment="Top" Height="143"
+                       TextAlignment="Center" FontSize="20"/>
+
+            <Button Content="Next: Cappuccino" HorizontalAlignment="Stretch" 
+                    Margin="80,512,80,0" VerticalAlignment="Top" Click="MochaNextbtn_Click"/>
+
+
+
+        </Grid>
+    </Grid>
+
+</phone:PhoneApplicationPage>

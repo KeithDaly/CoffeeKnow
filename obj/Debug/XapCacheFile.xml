@@ -1,0 +1,28 @@
+﻿<xapCache source="\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\Bin\Debug\KeithsApp_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="07/01/2015 15:18:58">
+  <file source="\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\Bin\Debug\resources.pri" archivePath="resources.pri" lastWriteTime="07/01/2015 15:18:54" />
+  <file source="\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\obj\Debug\KeithsApp.dll" archivePath="KeithsApp.dll" lastWriteTime="07/01/2015 15:18:54" />
+  <file source="\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="25/12/2014 19:59:24" />
+  <file source="\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\Assets\BadgeLogo.png" archivePath="Assets\BadgeLogo.png" lastWriteTime="25/12/2014 19:59:24" />
+  <file source="\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\Assets\Logo.png" archivePath="Assets\Logo.png" lastWriteTime="25/12/2014 19:59:24" />
+  <file source="\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\Assets\SplashScreen.png" archivePath="Assets\SplashScreen.png" lastWriteTime="25/12/2014 19:59:24" />
+  <file source="\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\Assets\SquareTile150x150.png" archivePath="Assets\SquareTile150x150.png" lastWriteTime="25/12/2014 19:59:24" />
+  <file source="\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\Assets\SquareTile71x71.png" archivePath="Assets\SquareTile71x71.png" lastWriteTime="25/12/2014 19:59:24" />
+  <file source="\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\Assets\StoreLogo.png" archivePath="Assets\StoreLogo.png" lastWriteTime="25/12/2014 19:59:24" />
+  <file source="\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\Assets\WideLogo.png" archivePath="Assets\WideLogo.png" lastWriteTime="25/12/2014 19:59:24" />
+  <file source="\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="25/12/2014 19:59:24" />
+  <file source="\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="25/12/2014 19:59:24" />
+  <file source="\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="25/12/2014 19:59:24" />
+  <file source="\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="25/12/2014 19:59:24" />
+  <file source="\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\Images\Americano.jpg" archivePath="Images\Americano.jpg" lastWriteTime="25/12/2014 21:29:48" />
+  <file source="\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\Images\CaffeLatte.jpg" archivePath="Images\CaffeLatte.jpg" lastWriteTime="25/12/2014 21:29:48" />
+  <file source="\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\Images\Cappuccino.jpg" archivePath="Images\Cappuccino.jpg" lastWriteTime="25/12/2014 21:29:48" />
+  <file source="\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\Images\Espresso.jpg" archivePath="Images\Espresso.jpg" lastWriteTime="25/12/2014 21:29:48" />
+  <file source="\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\Images\FlatWhite.jpg" archivePath="Images\FlatWhite.jpg" lastWriteTime="25/12/2014 21:29:48" />
+  <file source="\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\Images\Mocha.jpg" archivePath="Images\Mocha.jpg" lastWriteTime="25/12/2014 21:29:48" />
+  <file source="\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="25/12/2014 20:00:26" />
+  <file source="\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="25/12/2014 19:59:24" />
+  <file source="\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="25/12/2014 19:59:24" />
+  <file source="\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="25/12/2014 20:00:26" />
+  <file source="\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\obj\Debug\MDILProjectFiles.xml" archivePath="MDILProjectFiles.xml" lastWriteTime="07/01/2015 15:18:56" />
+  <file source="\\psf\Home\Desktop\Everything\KeithsApp\KeithsApp\Bin\Debug\AppxManifest.xml" archivePath="AppxManifest.xml" lastWriteTime="07/01/2015 15:18:55" />
+</xapCache>

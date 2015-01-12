@@ -1,0 +1,86 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="KeithsApp.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- LOCALIZATION NOTE:
+            To localize the displayed strings copy their values to appropriately named
+            keys in the app's neutral language resource file (AppResources.resx) then
+            replace the hard-coded text value between the attributes' quotation marks
+            with the binding clause whose path points to that string name.
+
+            For example:
+
+                Text="{Binding Path=LocalizedResources.ApplicationTitle, Source={StaticResource LocalizedStrings}}"
+
+            This binding points to the template's string resource named "ApplicationTitle".
+
+            Adding supported languages in the Project Properties tab will create a
+            new resx file per language that can carry the translated values of your
+            UI strings. The binding in these examples will cause the value of the
+            attributes to be drawn from the .resx file that matches the
+            CurrentUICulture of the app at run time.
+         -->
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock Text="Coffee Know" Style="{StaticResource PhoneTextNormalStyle}" Margin="12,0"/>
+            <TextBlock Text="Types of Coffee" TextAlignment="Center" FontSize="60" Margin="0,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <Grid HorizontalAlignment="Left" Height="398" Margin="34,116,0,0" VerticalAlignment="Top" Width="390">
+
+                <Button Content="Americano" HorizontalAlignment="Left" 
+                    Margin="10,10,0,0" VerticalAlignment="Top" Height="105" Width="169" Click="Americanobtn_Click"/>
+
+                <Button Content="Espresso" HorizontalAlignment="Left" 
+                    Margin="217,10,0,0" VerticalAlignment="Top" Width="173" Height="105" Click="Espressobtn_Click"/>
+
+                <Button Content="Mocha" HorizontalAlignment="Left" 
+                    Margin="10,152,0,0" VerticalAlignment="Top" Height="100" Width="169" Click="Mochabtn_Click"/>
+
+                <Button Content="Cappuccino" HorizontalAlignment="Left" 
+                    Margin="218,152,-1,0" VerticalAlignment="Top" Height="100" Width="173" Click="Cappucccinobtn_Click"/>
+
+                <Button Content="Flat White" HorizontalAlignment="Left" 
+                    Margin="10,300,0,-5" VerticalAlignment="Top" Height="103" Width="169" Click="FlatWhitebtn_Click"/>
+
+                <Button Content="Caffe Latte" HorizontalAlignment="Left" 
+                    Margin="217,300,0,0" VerticalAlignment="Top" Height="103" Width="173" Click="Lattebtn_Click"/>
+
+
+            </Grid>
+
+
+
+        </Grid>
+
+        <!--Uncomment to see an alignment grid to help ensure your controls are
+            aligned on common boundaries.  The image has a top margin of -32px to
+            account for the System Tray. Set this to 0 (or remove the margin altogether)
+            if the System Tray is hidden.
+
+            Before shipping remove this XAML and the image itself.-->
+        <!--<Image Source="/Assets/AlignmentGrid.png" VerticalAlignment="Top" Height="800" Width="480" Margin="0,-32,0,0" Grid.Row="0" Grid.RowSpan="2" IsHitTestVisible="False" />-->
+    </Grid>
+
+</phone:PhoneApplicationPage>

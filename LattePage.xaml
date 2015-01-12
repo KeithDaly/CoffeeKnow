@@ -1,0 +1,52 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="KeithsApp.LattePage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock Text="Coffee Know" Style="{StaticResource PhoneTextNormalStyle}"/>
+            <TextBlock Text="Latte" TextAlignment="Center" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+
+            <Image HorizontalAlignment="Center" Height="290" 
+                   Margin="10,-18,10,0" VerticalAlignment="Top" 
+                   Width="436" Source="Images/CaffeLatte.jpg"/>
+
+            <TextBlock HorizontalAlignment="Left" Margin="10,290,0,0" 
+                       TextWrapping="Wrap" Width="436"
+                       Text="A caffè latte may also be served consisting of strong or bold coffee (sometimes espresso) mixed with scalded milk in approximately a 1:1 ratio. The drink is similar to a cappuccino, the difference being that a cappuccino consists of espresso and steamed milk with a 20 mm (¾ inch) layer of thick milk foam.
+It's simply made with a shot of espresso and fresh steamed milk.
+" 
+                       VerticalAlignment="Top" Height="223"
+                       TextAlignment="Center" FontSize="20"/>
+
+            <Button Content="Home" HorizontalAlignment="Stretch" 
+                    Margin="79,518,81,0" VerticalAlignment="Top" Click="LatteHomebtn_Click"/>
+
+
+
+        </Grid>
+    </Grid>
+
+</phone:PhoneApplicationPage>
